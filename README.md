@@ -23,8 +23,9 @@ CASE TOP AND BOTTOM
 
 
 SCHEMATIC                                          
-<img width="756" height="531" alt="image" src="https://github.com/user-attachments/assets/144379aa-b1b1-4d0b-81c3-3266f23fd594" />
+<img width="877" height="668" alt="image" src="https://github.com/user-attachments/assets/b6796e4f-d356-4a23-850b-26e786d160e0" />
 
 
 PCB                                              
-<img width="850" height="764" alt="image" src="https://github.com/user-attachments/assets/5863511b-c873-4c89-9fe7-f6887a5785d9" />
+<img width="575" height="577" alt="image" src="https://github.com/user-attachments/assets/992a1d84-992c-4084-9d7f-77e9bd6e22df" />
+
