@@ -11,9 +11,9 @@ It took me the entire long weekend to do this.
 BOM:
 -   x1 Microcontroller	Seeed Studio XIAO RP2040
 -   x5 Switches	Cherry MX Style Switches
--   x5 Blank Keycaps	1u MX-compatible Keycaps
 -   x1 SK6812 MINI LED
 -   x1 0.1uF 0805 Ceramic Capacitor
+-   x5 Blank Keycaps	1u MX-compatible Keycaps
 -   x4 M3x16 Bolt
 -   x4 M3 Heatset
 -   x1 roll of Solder(tin/lead)
