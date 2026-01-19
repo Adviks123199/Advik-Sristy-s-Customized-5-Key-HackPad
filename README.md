@@ -12,7 +12,6 @@ BOM:
 -   x1 Microcontroller	Seeed Studio XIAO RP2040
 -   x5 Switches	Cherry MX Style Switches
 -   x1 SK6812 MINI LED
--   x1 0.1uF 0805 Ceramic Capacitor
 -   x5 Blank Keycaps	1u MX-compatible Keycaps
 -   x4 M3x16 Bolt
 -   x4 M3 Heatset
